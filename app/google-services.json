@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876131239218",
+    "firebase_url": "https://dbtesting-cfc4f.firebaseio.com",
+    "project_id": "dbtesting-cfc4f",
+    "storage_bucket": "dbtesting-cfc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876131239218:android:b4a5fc830bcb4380",
+        "android_client_info": {
+          "package_name": "com.example.joselarrubiaelich.dbtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876131239218-dkb0kvrtdrm5jc90qnurh13kc7ib2aoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joselarrubiaelich.dbtesting",
+            "certificate_hash": "54adc8c7dc658cc4540aaaa1186c6fa248a18b5c"
+          }
+        },
+        {
+          "client_id": "876131239218-lr6qsslnd29fgv7vi3jek75s872e212j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErRa-K35w8oMhshvkDDFUa0SRpuXiGn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876131239218-lr6qsslnd29fgv7vi3jek75s872e212j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
